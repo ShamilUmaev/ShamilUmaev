@@ -1,12 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br> My name is Shamil Umaev
 ====================================================================================================================================
 
-I am a Frontend Developer with 2+ years of technical experience as an IT-Supporter. I am 26 year old, and I am based in Cologne, Germany
+I am a Frontend Developer with over 2 years of experience in IT support. I'm 26 years old, and I'm based in Cologne, Germany.
 
 ------------------
 
-In 2016 my journey in IT began. I started my apprenticeship as an information technology assistant in college in 2016 and got graduated In 2019. At college I learned the basics of programming, databases and networking. After my graduation in 2019 I immediately began to work as a Technical Supporter, and till this day I am still working here. However, in 2022, while also working in this position, I also began to learn about web development. I found this to be really interesting and fun, and I knew right away that it was something I wanted to work with. I understood that this was something that gave me a lot of joy  and something I wanted to do every day for  the rest of my life. I have since then completed different courses and worked  on my own projects. I also got certified in Responsive Webdesign by FreeCodeCamp, where I've completed over 1000 exercises and finished 5 projects using pure HTML & CSS. I'm currently in a web development bootcamp called Freemote, and also in an online bootcamp from Vue.js where I have to build many projects using Vue.js and pass an examination to become a certified Vue.js developer.
-If you are interested, please check out my projects. The projects listed on my Github I've worked on and completed by my self based on a given figma design.
+In 2016, I started my journey in IT by doing an apprenticeship as an Information Technology Assistant in college. I graduated in 2019, learning the basics of programming, databases, and networking during my college years. Right after graduating, I began working as a Technical Supporter, a job I still do today.
+
+However, in 2022, while working in tech support, I discovered web development. I found it interesting and enjoyable. It made me really happy, and I decided I wanted to do it every day.
+
+Since then, I’ve taken various courses, worked on personal projects, and earned certification in Responsive Web Design from FreeCodeCamp. Through this program, I completed over 1000 exercises and successfully executed 5 projects using pure HTML & CSS.
+
+Currently, I’m actively engaged in a web development bootcamp called Freemote, and I’m also enrolled in an online Vue.js bootcamp. In the Vue.js bootcamp, I’m tasked with building numerous projects using Vue.js and working towards becoming a certified Vue.js developer.
+
+If you’re interested, please take a moment to explore my projects. The projects listed on my GitHub have been entirely developed by myself, following Figma designs provided.
 
 * 🌍  I'm based in Cologne, Germany.
 * 🖥️  See my portfolio at [MyPortfolio](http://shamilumaev.com)
