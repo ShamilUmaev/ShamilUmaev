@@ -5,7 +5,7 @@ I am a Frontend Developer with over 2 years of experience in IT support. I'm 26 
 
 ------------------
 
-In 2016, I started my journey in IT by doing an apprenticeship as an Information Technology Assistant in college. I graduated in 2019, learning the basics of programming, databases, and networking during my college years. Right after graduating, I began working as a Technical Supporter, a job I still do today.
+In 2016, I started my journey in IT by doing an apprenticeship as an Information Technology Assistant in college. In 2019, I graduated with a foundation in programming, databases, and networking from my college education. Right after graduating, I stepped into the role of a Technical Supporter, a position I’ve remained in ever since.
 
 However, in 2022, while working in tech support, I discovered web development. I found it interesting and enjoyable. It made me really happy, and I decided I wanted to do it every day.
 
