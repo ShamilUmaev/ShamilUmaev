@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br> My name is Shamil Umaev
 ====================================================================================================================================
 
-I am a Frontend Developer with over 2 years of experience in IT support. I'm 26 years old, and I am based in Cologne, Germany.
+I am a Frontend Developer with over 4 years of experience in IT support. I'm 28 years old, and I am based in Cologne, Germany.
 
 ------------------
 
